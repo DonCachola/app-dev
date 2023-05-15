@@ -5,4 +5,5 @@ My first repository
 ## Current Series
 1. Doctor Strange
 2. Doctor Strange: To The Multiverse of Madness
-### [Main Site](https://www.imdb.com/title/tt1211837/)
+### [Doctor Strange](https://www.imdb.com/title/tt1211837/)
+### [Doctor Strange: To The Multiverse of Madness](https://www.imdb.com/title/tt9419884/?ref_=tt_urv)
